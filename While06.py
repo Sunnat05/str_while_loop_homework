@@ -2,7 +2,7 @@ def main(s):
     con=0
     ans=0
     while con<len(s):
-        if s[con] in "qwrtyplkjhgfdszxcvbnm":
+        if s[con] in "qwrtyplkjhgfdszxcvbnmQWRTYPLKJHGFDSZXCVBNM":
            ans+=1
         con+=1
     """
