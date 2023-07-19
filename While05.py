@@ -2,7 +2,7 @@ def main(s):
     ans=0
     int=0
     while int<len(s):
-        if s[int] in "qwertyuioplkjhgfdsazxcvbnm":
+        if s[int] in "qwertyuioplkjhgfdsazxcvbnmQWRTYPLKJHGFDSZXCVBNM":
             ans+=1
         int+=1
     
