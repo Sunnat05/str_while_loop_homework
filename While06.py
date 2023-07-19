@@ -1,7 +1,7 @@
 def main(s):
     int=0
     ans=0
-    while let<len(s):
+    while int<len(s):
         if s[int] in "qwrtyplkjhgfdszxcvbnm":
            ans+=1
         int+=1
