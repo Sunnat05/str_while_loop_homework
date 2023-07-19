@@ -4,7 +4,7 @@ def main(s):
     while let<len(s):
         if s[int] in "qwrtyplkjhgfdszxcvbnm":
            ans+=1
-        let+=1
+        int+=1
     """
     A variable of type str is given. Find and return how many consonant letters there are.
     Args:
